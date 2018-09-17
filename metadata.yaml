@@ -1,0 +1,30 @@
+_repo: When-Sarah-Saved-the-Day_52257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Singmaster, Elsie
+    aliases:
+    - Lewars, Harold, Mrs.
+    - Lewars, Mrs. Harold
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '40794'
+    url: http://www.gutenberg.org/2009/agents/40794
+description: ''
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Teenagers -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Pennsylvania Dutch Country (Pa.) -- Fiction'
+- GITenberg
+title: When Sarah Saved the Day
+url: http://www.gutenberg.org/ebooks/52257
